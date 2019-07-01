@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240701254042",
+    "firebase_url": "https://foodzon-cd299.firebaseio.com",
+    "project_id": "foodzon-cd299",
+    "storage_bucket": "foodzon-cd299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240701254042:android:7b4e0659692fd200",
+        "android_client_info": {
+          "package_name": "com.example.foodzon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240701254042-99vjr3uk81dlhjlk93m285voi7rcs8jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodzon",
+            "certificate_hash": "5546d98408eb75b3860e870c36be44b4ea541ff8"
+          }
+        },
+        {
+          "client_id": "240701254042-gal8k4hg13o5vmlg09opb1moeemqvdcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2HuFexBWdd6Rej8NJ1lHVvMvF5BpjKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240701254042-gal8k4hg13o5vmlg09opb1moeemqvdcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
